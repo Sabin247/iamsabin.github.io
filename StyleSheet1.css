@@ -1,0 +1,76 @@
+﻿
+
+*{
+    box-sizing: border-box;
+    font-family: Raleway;
+    color:#777;
+}
+
+
+
+html, body {
+    margin:0;
+    padding:0;
+}
+.nav ul {
+    margin:0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a{
+    display: inline-block;
+    padding: .50em;
+    color: white;
+    text-decoration: none;
+}
+
+.nav {
+   
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255, 255, 255, .3);
+}
+
+
+.nav a:hover {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+.main-header {
+    background-color: rgb(0, 148, 255);
+    background-size: cover;
+}
+
+.hello-class {
+    margin: 0;
+    font-size: 4em;
+    font-family: "Booter - Zero Zero";
+}
+
+
+
+.work-section {
+   text-align: center;
+    background-color: lightblue;
+    background-size: cover;
+}
+
+
+
+.About-section {
+   
+    text-align: center;
+    background-color:navajowhite;
+    background-size: cover;
+}
+
+.contact-section {
+   
+    background-color: floralwhite;
+    background-size: cover;
+}
+
+
+
